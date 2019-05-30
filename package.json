@@ -1,0 +1,21 @@
+{
+  "name": "xpedite-cli",
+  "version": "1.0.0",
+  "description": "Xpedite Cli, Tool for creating Express servers with or without Sequelize and authentication.",
+  "main": "index.js",
+  "author": "Alecx Moritz alecxmoritz8@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "xpedite": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.107.0",
+    "touch": "^3.1.0"
+  }
+}
