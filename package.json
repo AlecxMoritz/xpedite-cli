@@ -14,7 +14,7 @@
     "clui": "^0.3.6",
     "figlet": "^1.2.1",
     "inquirer": "^6.2.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "simple-git": "^1.107.0",
     "touch": "^3.1.0"
   }
